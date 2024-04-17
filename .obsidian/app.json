@@ -1,6 +1,7 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "Zettelkasten",
+  "newFileFolderPath": "Zettelkasten/Frameworks & Libraries/Express",
   "attachmentFolderPath": "Files",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

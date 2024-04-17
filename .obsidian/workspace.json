@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "726968b4b9206334",
+            "id": "054cb3a64168ac2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference notes/Competitive programming.md",
-                "mode": "preview",
+                "file": "Zettelkasten/Courses/Complete GIT in 1 video.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,6 +31,7 @@
       {
         "id": "43f8ad456c51ed46",
         "type": "tabs",
+        "dimension": 67.98245614035088,
         "children": [
           {
             "id": "bbc36bba892c5011",
@@ -66,10 +67,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "0a6aaa022fbe59b3",
+        "type": "tabs",
+        "dimension": 32.01754385964912,
+        "children": [
+          {
+            "id": "77f0cb7cd71ee1ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Frameworks & Libraries/Express/Terminologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.0086555480957
+    "width": 265.000732421875
   },
   "right": {
     "id": "193c582767400c3c",
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference notes/Competitive programming.md",
+                "file": "Zettelkasten/Courses/Complete GIT in 1 video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference notes/Competitive programming.md",
+                "file": "Zettelkasten/Courses/Complete GIT in 1 video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference notes/Competitive programming.md"
+                "file": "Zettelkasten/Courses/Complete GIT in 1 video.md"
               }
             }
           },
@@ -157,23 +177,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "726968b4b9206334",
+  "active": "054cb3a64168ac2e",
   "lastOpenFiles": [
+    "Zettelkasten/Courses/Complete GIT in 1 video.md",
+    "Zettelkasten/Frameworks & Libraries/Express/Middleware architecture.md",
+    "Zettelkasten/Frameworks & Libraries/Express/Routing.md",
+    "Zettelkasten/Frameworks & Libraries/Express/Introduction to Express.md",
+    "Zettelkasten/Frameworks & Libraries/Express/Syllabus.md",
+    "Zettelkasten/Frameworks & Libraries/Express/What is Express?.md",
+    "Zettelkasten/Frameworks & Libraries/Express/Terminologies.md",
+    "Work Buffer/14-04-2024.md",
+    "Files/Git workflow.png",
+    "Zettelkasten/Frameworks & Libraries/Express/Installing Express.md",
+    "Zettelkasten/Courses",
+    "Files/Routing anlogy.png",
+    "Work Buffer",
+    "Files/Middleware analogy.png",
+    "Files/Middleware architecture.png",
+    "Reference notes/Competitive programming.md",
+    "Zettelkasten/Competitive programming",
+    "Zettelkasten/Research Work",
+    "Zettelkasten/Core concepts/Computer Networks",
+    "Zettelkasten/Projects/Osprey",
+    "Zettelkasten/Projects/DermAI",
+    "Zettelkasten/Projects/Study Buddy",
+    "Zettelkasten/Projects",
+    "Zettelkasten/Frameworks & Libraries/Svelte",
+    "Zettelkasten/Buffer.md",
     "Reference notes/Goals.md",
     "Reference notes/Choice of Stack for Fullstack.md",
     "Reference notes/C++.md",
     "Reference notes/Artificial Intelligence.md",
     "Reference notes/Get Shit Done.md",
-    "Reference notes/Competitive programming.md",
     "Reference notes/Web Development.md",
     "Reference notes/Vocabulary.md",
     "Zettelkasten/After Placements.md",
     "Zettelkasten/Data Analytics with the Google Stack (SQL, Python, Data Visualization, Data Analysis).md",
-    "Zettelkasten/output.pdf",
     "Data Analytics with the Google Stack (SQL, Python, Data Visualization, Data Analysis).md",
     "Zettelkasten/JWT.md",
     "Zettelkasten/Interview preparation.md",
-    "Zettelkasten/What is a container?.md",
-    "Zettelkasten/Untitled"
+    "Zettelkasten/What is a container?.md"
   ]
 }
