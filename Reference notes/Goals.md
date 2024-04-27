@@ -54,8 +54,6 @@
 2. Template QLoRa finetuning of a small LLM
 3. Clipboard medium in home network
 
-
-
 ## Wishlist
 - [ ] [Sveltekit + Firebase Course - Fireship](https://fireship.io/courses/sveltekit/)
 - [ ] [React + Supabase Course - Fireship](https://fireship.io/courses/supabase/)
