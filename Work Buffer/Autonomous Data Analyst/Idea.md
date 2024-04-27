@@ -3,7 +3,7 @@ How about the role of a data analyst decomposed into a sequence of tasks which a
 > **Note**: Use Groq API for crazy fast stream chatting
 
 ```
-Groq API: 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
+Groq API: **Go and look at email**
 ```
 
 Data analyst ->
