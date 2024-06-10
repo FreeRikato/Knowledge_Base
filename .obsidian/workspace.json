@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e11f1c8923dc879a",
+        "id": "48eed18c40ae8d0b",
         "type": "tabs",
         "children": [
           {
-            "id": "2b99178c8c021336",
+            "id": "3f6ecfabb0877568",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -192,10 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b99178c8c021336",
+  "active": "3f6ecfabb0877568",
   "lastOpenFiles": [
-    "Zettelkasten/Frameworks & Libraries/React/Untitled.md",
     "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md",
+    "Zettelkasten/Frameworks & Libraries/React/Untitled.md",
     "Zettelkasten/Frameworks & Libraries/REACT/Untitled.md",
     "Zettelkasten/Frameworks & Libraries/Express/Installing Express.md",
     "Rough Notes/Competitive programming.md",
