@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5335979656c3dcd9",
+        "id": "e11f1c8923dc879a",
         "type": "tabs",
         "children": [
           {
-            "id": "a07078f3c5d358fb",
+            "id": "2b99178c8c021336",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md"
+                "file": "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md",
+                "file": "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md",
+                "file": "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md"
+                "file": "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,12 +192,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a07078f3c5d358fb",
+  "active": "2b99178c8c021336",
   "lastOpenFiles": [
-    "Projects/Active Projects/Kleos 2.0/Plans.excalidraw.md",
-    "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md",
-    "Projects/Active Projects/Kleos 2.0/Reference Resources.canvas",
+    "Zettelkasten/Frameworks & Libraries/React/Untitled.md",
+    "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md",
+    "Zettelkasten/Frameworks & Libraries/REACT/Untitled.md",
+    "Zettelkasten/Frameworks & Libraries/Express/Installing Express.md",
+    "Rough Notes/Competitive programming.md",
+    "Zettelkasten/Frameworks & Libraries/React",
+    "Rough Notes/Mirai.md",
     "Projects/Active Projects/Kleos 2.0/Drawing 2024-06-09 12.49.35.excalidraw.md",
+    "Rough Notes/Job Openings.md",
+    "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md",
+    "Projects/Active Projects/Kleos 2.0/Plans.excalidraw.md",
+    "Projects/Active Projects/Kleos 2.0/Reference Resources.canvas",
     "Excalidraw/Drawing 2024-06-09 22.37.18.excalidraw.md",
     "Excalidraw/Drawing 2024-05-10 07.03.15.excalidraw.md",
     "Excalidraw/Drawing 2024-05-08 23.11.56.excalidraw.md",
@@ -213,7 +221,6 @@
     "Files/Pasted Image 20240609130626_829.png",
     "Files/Pasted Image 20240609124949_159.png",
     "Projects/Active Projects/Kleos 2.0/Plans.excalidraw",
-    "Rough Notes/Competitive programming.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -222,8 +229,6 @@
     "Projects/Active Projects/Kleos 2.0/RAG Implementation.md",
     "Source Material/Videos/Complete GIT in 1 video.md",
     "Projects/Active Projects/Kleos 2.0",
-    "Rough Notes/Job Openings.md",
-    "Rough Notes/Mirai.md",
     "Reference notes/Web Development.md",
     "Reference notes/Vocabulary.md",
     "Reference notes/Choice of Stack for Fullstack.md",
@@ -236,10 +241,6 @@
     "Projects/Active Projects",
     "Source Material/Articles",
     "Source Material/Videos",
-    "Source Material/Books",
-    "Excalidraw/Ethics for Data science.md",
-    "Zettelkasten/Courses/Back-end development.md",
-    "Excalidraw/Data Visualization.md",
     "Work Buffer/Untitled.canvas"
   ]
 }
