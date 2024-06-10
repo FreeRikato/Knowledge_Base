@@ -173,11 +173,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +192,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a07078f3c5d358fb",
+  "active": "8c03d86a122b22b9",
   "lastOpenFiles": [
-    "Projects/Active Projects/Kleos 2.0/Reference Resources.canvas",
-    "Projects/Active Projects/Kleos 2.0/Drawing 2024-06-09 12.49.35.excalidraw.md",
     "Projects/Active Projects/Kleos 2.0/Plans.excalidraw.md",
+    "Projects/Active Projects/Kleos 2.0/Reference Resources.canvas",
+    "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md",
+    "Projects/Active Projects/Kleos 2.0/Drawing 2024-06-09 12.49.35.excalidraw.md",
     "Excalidraw/Drawing 2024-06-09 22.37.18.excalidraw.md",
     "Excalidraw/Drawing 2024-05-10 07.03.15.excalidraw.md",
     "Excalidraw/Drawing 2024-05-08 23.11.56.excalidraw.md",
@@ -210,7 +212,6 @@
     "Files/Pasted Image 20240609130858_845.png",
     "Files/Pasted Image 20240609130626_829.png",
     "Files/Pasted Image 20240609124949_159.png",
-    "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md",
     "Projects/Active Projects/Kleos 2.0/Plans.excalidraw",
     "Rough Notes/Competitive programming.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
