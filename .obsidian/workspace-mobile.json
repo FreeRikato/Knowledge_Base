@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "f44298ef1966df30",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c6ddccb2ef0bb56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdf724284ba8f6c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b43f4307bd1e6b4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5db2873f35472e61",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e48fda951b00ee71",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "130dc0b1b14e92b6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7c4ea932f3ee6313",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e60d81a5d87273ec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "322e4da93f267328",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d700c86e7fc6ee5f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4a250170b8f7c093",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "bdf724284ba8f6c0",
+  "lastOpenFiles": [
+    "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md",
+    "Projects/Active Projects/Kleos 2.0/Plans.excalidraw.md",
+    "Projects/Active Projects/Kleos 2.0/Reference Resources.canvas",
+    "Projects/Active Projects/Kleos 2.0/Drawing 2024-06-09 12.49.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-09 22.37.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-10 07.03.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-25 00.32.47.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-08 23.11.56.excalidraw.md",
+    "Excalidraw/Ethics for Data science.md"
+  ]
+}
