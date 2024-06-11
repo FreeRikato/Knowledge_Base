@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "48eed18c40ae8d0b",
+        "id": "cf64f36309b341ca",
         "type": "tabs",
         "children": [
           {
-            "id": "3f6ecfabb0877568",
+            "id": "f9beeebaaa318b74",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md"
+                "file": "Projects/Active Projects/Kleos 2.0/Plans.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5b4cf9800dab977b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Projects/Active Projects/Kleos 2.0/AI Agents.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.000732421875
+    "width": 265.000732421875,
+    "collapsed": true
   },
   "right": {
     "id": "193c582767400c3c",
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md",
+                "file": "Projects/Active Projects/Kleos 2.0/AI Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md",
+                "file": "Projects/Active Projects/Kleos 2.0/AI Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md"
+                "file": "Projects/Active Projects/Kleos 2.0/AI Agents.md"
               }
             }
           },
@@ -192,19 +204,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f6ecfabb0877568",
+  "active": "5b4cf9800dab977b",
   "lastOpenFiles": [
+    "Projects/Active Projects/Kleos 2.0/Plans.excalidraw.md",
+    "Projects/Active Projects/Kleos 2.0/AI Agents.md",
+    "Files/pngwing.com.png",
+    "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md",
+    "Projects/Active Projects/Kleos 2.0/Drawing 2024-06-09 12.49.35.excalidraw.md",
+    "Projects/Active Projects/Kleos 2.0/Untitled.md",
     "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md",
-    "Zettelkasten/Frameworks & Libraries/React/Untitled.md",
+    "Zettelkasten/Frameworks & Libraries/React/Core Concepts.md",
     "Zettelkasten/Frameworks & Libraries/REACT/Untitled.md",
     "Zettelkasten/Frameworks & Libraries/Express/Installing Express.md",
     "Rough Notes/Competitive programming.md",
     "Zettelkasten/Frameworks & Libraries/React",
     "Rough Notes/Mirai.md",
-    "Projects/Active Projects/Kleos 2.0/Drawing 2024-06-09 12.49.35.excalidraw.md",
     "Rough Notes/Job Openings.md",
-    "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md",
-    "Projects/Active Projects/Kleos 2.0/Plans.excalidraw.md",
     "Projects/Active Projects/Kleos 2.0/Reference Resources.canvas",
     "Excalidraw/Drawing 2024-06-09 22.37.18.excalidraw.md",
     "Excalidraw/Drawing 2024-05-10 07.03.15.excalidraw.md",
@@ -219,7 +234,6 @@
     "Files/Pasted Image 20240609131548_853.png",
     "Files/Pasted Image 20240609130858_845.png",
     "Files/Pasted Image 20240609130626_829.png",
-    "Files/Pasted Image 20240609124949_159.png",
     "Projects/Active Projects/Kleos 2.0/Plans.excalidraw",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Excalidraw/Scripts/Downloaded",
@@ -233,9 +247,6 @@
     "Reference notes/Vocabulary.md",
     "Reference notes/Choice of Stack for Fullstack.md",
     "Reference notes/C++.md",
-    "Reference notes/Artificial Intelligence.md",
-    "Source Material/Books/THE DAILY LAWS.md",
-    "Source Material/Videos/STL in C++.md",
     "Projects/Project Ideas",
     "Projects/Completed Projects",
     "Projects/Active Projects",
