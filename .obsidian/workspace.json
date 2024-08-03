@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cf64f36309b341ca",
+        "id": "6bef7620c0bcb85c",
         "type": "tabs",
         "children": [
           {
-            "id": "f9beeebaaa318b74",
+            "id": "2e8ec652b077aa7a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Projects/Active Projects/Kleos 2.0/Plans.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5b4cf9800dab977b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Projects/Active Projects/Kleos 2.0/AI Agents.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -40,7 +27,7 @@
       {
         "id": "43f8ad456c51ed46",
         "type": "tabs",
-        "dimension": 50.192061459667094,
+        "dimension": 66.63452266152362,
         "children": [
           {
             "id": "bbc36bba892c5011",
@@ -80,20 +67,8 @@
       {
         "id": "0a6aaa022fbe59b3",
         "type": "tabs",
-        "dimension": 49.807938540332906,
+        "dimension": 33.365477338476374,
         "children": [
-          {
-            "id": "77f0cb7cd71ee1ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Frameworks & Libraries/Express/Terminologies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "2e421514c10a970e",
             "type": "leaf",
@@ -102,12 +77,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.000732421875
+    "width": 509.5026054382324
   },
   "right": {
     "id": "193c582767400c3c",
@@ -123,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Active Projects/Kleos 2.0/AI Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Active Projects/Kleos 2.0/AI Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Active Projects/Kleos 2.0/AI Agents.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,54 +173,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b4cf9800dab977b",
+  "active": "2e421514c10a970e",
   "lastOpenFiles": [
-    "Projects/Active Projects/Kleos 2.0/Resources.excalidraw.md",
-    "Projects/Active Projects/Kleos 2.0/Plans.excalidraw.md",
-    "Projects/Active Projects/Kleos 2.0/Drawing 2024-06-09 12.49.35.excalidraw.md",
-    "Projects/Active Projects/Kleos 2.0/AI Agents.md",
-    "Files/pngwing.com.png",
-    "Projects/Active Projects/Kleos 2.0/Untitled.md",
-    "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-25 00.32.47.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-09 22.37.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-28 01.03.32.excalidraw.md",
+    "Projects/Active Projects/Koe/Drawing 2024-07-24 02.30.24.excalidraw.md",
+    "Files/Pasted Image 20240731001145_438.png",
+    "Files/Pasted Image 20240731002813_664.png",
+    "Files/Pasted Image 20240731000755_432.png",
+    "Files/Pasted Image 20240731000725_418.png",
+    "Files/Pasted Image 20240731000028_393.png",
+    "Files/Pasted Image 20240730230304_281.svg",
+    "Files/Pasted Image 20240730225942_254.png",
+    "Files/Pasted Image 20240730225811_251.png",
+    "Files/Pasted Image 20240730222942_178.png",
+    "Files/Pasted Image 20240730222854_175.png",
+    "Rough Notes/Drawing 2024-07-15 20.19.39.excalidraw.md",
+    "Rough Notes/Crystal meth.md",
+    "Projects/Active Projects/Koe",
     "Zettelkasten/Frameworks & Libraries/React/Core Concepts.md",
+    "Excalidraw/Drawing 2024-07-15 20.19.23.excalidraw.md",
+    "Rough Notes/Drawing 2024-07-08 19.27.32.excalidraw.md",
+    "Projects/Drawing 2024-07-08 02.35.26.excalidraw.md",
+    "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md",
+    "Rough Notes/Competitive programming.md",
+    "Rough Notes/Lecture 4 04-07-24.md",
+    "Rough Notes/Lecture 2 02-07-24.md",
+    "Projects/Project Ideas/Autonomous Data Analyst/Idea.md",
+    "Projects/Completed Projects/Kleos 2.0/AI Agents.md",
+    "Projects/Completed Projects/Kleos 2.0/Drawing 2024-06-09 12.49.35.excalidraw.md",
+    "Projects/Completed Projects/Kleos 2.0/Plans.excalidraw.md",
+    "Projects/Active Projects/Kleos 2.0/Presentation.md",
+    "Projects/Completed Projects/Kleos 2.0/Resources.excalidraw.md",
+    "Excalidraw Library/system-design.excalidrawlib",
+    "Excalidraw Library/software-architecture.excalidrawlib",
+    "Excalidraw Library/stick-figures.excalidrawlib",
+    "Excalidraw Library/drwnio.excalidrawlib",
+    "Excalidraw Library/data-viz.excalidrawlib",
+    "Excalidraw Library/architecture-diagram-components.excalidrawlib",
+    "Excalidraw Library",
+    "Projects/Active Projects/Kleos 2.0/Untitled.md",
     "Zettelkasten/Frameworks & Libraries/REACT/Untitled.md",
     "Zettelkasten/Frameworks & Libraries/Express/Installing Express.md",
-    "Rough Notes/Competitive programming.md",
     "Zettelkasten/Frameworks & Libraries/React",
     "Rough Notes/Mirai.md",
     "Rough Notes/Job Openings.md",
     "Projects/Active Projects/Kleos 2.0/Reference Resources.canvas",
-    "Excalidraw/Drawing 2024-06-09 22.37.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-10 07.03.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-08 23.11.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-25 00.32.47.excalidraw.md",
-    "Files/Pasted Image 20240609133918_001.png",
-    "Files/Pasted Image 20240609133759_991.png",
-    "Files/Pasted Image 20240609133325_972.png",
-    "Files/Pasted Image 20240609132317_893.png",
-    "Files/Pasted Image 20240609132200_890.png",
-    "Files/Pasted Image 20240609132115_876.png",
-    "Files/Pasted Image 20240609131548_853.png",
-    "Files/Pasted Image 20240609130858_845.png",
-    "Files/Pasted Image 20240609130626_829.png",
     "Projects/Active Projects/Kleos 2.0/Plans.excalidraw",
-    "Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Projects/Active Projects/Kleos 2.0/Resource References.md",
-    "Projects/Active Projects/Kleos 2.0/Career Road-map for Engineers.md",
-    "Projects/Active Projects/Kleos 2.0/RAG Implementation.md",
-    "Source Material/Videos/Complete GIT in 1 video.md",
-    "Projects/Active Projects/Kleos 2.0",
-    "Reference notes/Web Development.md",
-    "Reference notes/Vocabulary.md",
-    "Reference notes/Choice of Stack for Fullstack.md",
-    "Reference notes/C++.md",
-    "Projects/Project Ideas",
-    "Projects/Completed Projects",
-    "Projects/Active Projects",
-    "Source Material/Articles",
-    "Source Material/Videos",
     "Work Buffer/Untitled.canvas"
   ]
 }

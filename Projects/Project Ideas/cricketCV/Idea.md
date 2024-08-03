@@ -1,3 +1,0 @@
-![](https://www.youtube.com/watch?v=L23oIHZE14w&list=WL&index=7&t=77s&pp=gAQBiAQB)
-
-The above video lays the foundation for this project. The tech stack mainly comprises of YOLO, OpenCV and PyTorch. This is an interesting computer vision project where i track the batsmen, bowler and the ball along with its speed. Also, the wide & bowling line could be tracked to accurately pinpoint wide balls and no balls. Hope, i get started with the project after i finish the PyTorch Mastery.
