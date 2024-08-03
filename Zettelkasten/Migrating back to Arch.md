@@ -1,0 +1,22 @@
+- [ ] Important apps => VS code, Obsidian, Warp, Mongodb Compass, Postman, Discord, OBS studio, Zoom, NVtop, Btop++ and Libreoffice
+- [ ] Current Code => Github
+- [ ] Passwords - Gmail (most probably stored in my mozilla account)
+- [ ] Store knowledge base in Github
+- [ ] Setups done
+	- [ ] Ani-cli
+	- [ ] Ollama
+	- [ ] Powerlvl10k
+	- [ ] Lazyvim
+	- [ ] zsh-autosuggestions
+	- [ ] zsh-syntax-highlighting
+	- [ ] fzf
+	- [ ] eza
+	- [ ] zoxide
+	- [ ] alder
+	- [ ] miniconda
+	- [ ] cuda
+	- [ ] cudnn
+	- [ ] ollama
+	- [ ] mpv
+	- [ ] vlc
+	- [ ] steam

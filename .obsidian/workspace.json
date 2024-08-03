@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6bef7620c0bcb85c",
+        "id": "dfd82229a84abfa2",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8ec652b077aa7a",
+            "id": "f9001e46f2909de3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Tadashi.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +31,7 @@
       {
         "id": "43f8ad456c51ed46",
         "type": "tabs",
-        "dimension": 66.63452266152362,
+        "dimension": 43.99066511085181,
         "children": [
           {
             "id": "bbc36bba892c5011",
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "choos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +71,7 @@
       {
         "id": "0a6aaa022fbe59b3",
         "type": "tabs",
-        "dimension": 33.365477338476374,
+        "dimension": 56.009334889148185,
         "children": [
           {
             "id": "2e421514c10a970e",
@@ -76,12 +80,22 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "ad18680f2656aa67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettelkasten/Tadashi.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 287.5026054382324
+    "width": 200
   },
   "right": {
     "id": "193c582767400c3c",
@@ -97,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Tadashi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Tadashi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,14 +143,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "ad18680f2656aa67",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           },
           {
@@ -154,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,11 +178,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bbc36bba892c5011",
+  "active": "f9001e46f2909de3",
   "lastOpenFiles": [
+    "Zettelkasten/Choosing the right database.md",
+    "Zettelkasten/Migrating back to Arch.md",
+    "Zettelkasten/Tadashi.md",
+    "Macro.md",
+    "Zettelkasten/Sample.md",
+    "Zettelkasten",
     "Excalidraw/Drawing 2024-04-25 00.32.47.excalidraw.md",
     "Excalidraw/Drawing 2024-06-09 22.37.18.excalidraw.md",
     "Excalidraw/Drawing 2024-07-28 01.03.32.excalidraw.md",
@@ -214,13 +229,8 @@
     "Excalidraw Library/architecture-diagram-components.excalidrawlib",
     "Excalidraw Library",
     "Projects/Active Projects/Kleos 2.0/Untitled.md",
-    "Zettelkasten/Frameworks & Libraries/REACT/Untitled.md",
-    "Zettelkasten/Frameworks & Libraries/Express/Installing Express.md",
     "Zettelkasten/Frameworks & Libraries/React",
-    "Rough Notes/Mirai.md",
-    "Rough Notes/Job Openings.md",
     "Projects/Active Projects/Kleos 2.0/Reference Resources.canvas",
-    "Projects/Active Projects/Kleos 2.0/Plans.excalidraw",
     "Work Buffer/Untitled.canvas"
   ]
 }
