@@ -2,7 +2,7 @@ Tadashi is a toy project that i am planning to build. The main objective of this
 
 ## Tentative Plan
 
-- Local storage (Mostly SQLite) that keeps track of untracked files
+- Local storage (Mostly SQLite - Refer [[Choosing the right database]]) that keeps track of untracked files
 - Untracked files would be which are newly added - deleted - udpated (basically) and need reviewing like git changes
 - The tracked files no need reviewing and untracked files would be listed and reviewed.
 - Suggestions would be rendered alongside the notes when clicked with Grammar scores
@@ -22,3 +22,7 @@ Step 5: Research on web to find relevant information
 Step 6: Fact check the notes to find places where it sounds wrong
 Step 7: Evaluate Grammar scores
 Step 8: Render suggestions and grammar scores
+
+Refer below to visualize the agentic workflow, state propagation and architecture diagram, 
+[[Tadashi Visualize]]
+

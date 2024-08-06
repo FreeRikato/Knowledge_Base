@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dfd82229a84abfa2",
+        "id": "a23325c3ef4edfc4",
         "type": "tabs",
         "children": [
           {
-            "id": "36166da425d9548b",
+            "id": "f4d197a12a5c00a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Migrating back to Arch.md",
+                "file": "Zettelkasten/intro to Docker from typecraft.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Migrating back to Arch.md"
+                "file": "Zettelkasten/intro to Docker from typecraft.md"
               }
             }
           }
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 260.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "193c582767400c3c",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Migrating back to Arch.md",
+                "file": "Zettelkasten/intro to Docker from typecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Migrating back to Arch.md",
+                "file": "Zettelkasten/intro to Docker from typecraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,12 +183,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "36166da425d9548b",
+  "active": "f4d197a12a5c00a1",
   "lastOpenFiles": [
+    "Files/Pasted image 20240805220840.png",
+    "Files/Pasted image 20240805222357.png",
+    "Zettelkasten/intro to Docker from typecraft.md",
+    "Scratch Pad.md",
+    "Macro.md",
+    "Zettelkasten/Tadashi Visualize.md",
+    "Files/Pasted Image 20240805105540_672.png",
+    "Files/Pasted image 20240805220758.png",
+    "Files/Pasted Image 20240805105525_665.png",
+    "Files/Pasted Image 20240805104840_652.png",
+    "Files",
     "Zettelkasten/Tadashi.md",
     "Zettelkasten/Choosing the right database.md",
+    "Zettelkasten/Package managers for JS & TS.md",
+    "Zettelkasten/Jargons.md",
     "Zettelkasten/Migrating back to Arch.md",
-    "Macro.md",
+    "Zettelkasten/Real-time Posture Monitoring and Correction System Using Laptop Camera for Enhanced Ergonomic Health.md",
     "Zettelkasten/Sample.md",
     "Zettelkasten",
     "Excalidraw/Drawing 2024-04-25 00.32.47.excalidraw.md",
@@ -198,12 +212,6 @@
     "Files/Pasted Image 20240731002813_664.png",
     "Files/Pasted Image 20240731000755_432.png",
     "Files/Pasted Image 20240731000725_418.png",
-    "Files/Pasted Image 20240731000028_393.png",
-    "Files/Pasted Image 20240730230304_281.svg",
-    "Files/Pasted Image 20240730225942_254.png",
-    "Files/Pasted Image 20240730225811_251.png",
-    "Files/Pasted Image 20240730222942_178.png",
-    "Files/Pasted Image 20240730222854_175.png",
     "Rough Notes/Drawing 2024-07-15 20.19.39.excalidraw.md",
     "Rough Notes/Crystal meth.md",
     "Projects/Active Projects/Koe",
@@ -215,12 +223,6 @@
     "Rough Notes/Competitive programming.md",
     "Rough Notes/Lecture 4 04-07-24.md",
     "Rough Notes/Lecture 2 02-07-24.md",
-    "Projects/Project Ideas/Autonomous Data Analyst/Idea.md",
-    "Projects/Completed Projects/Kleos 2.0/AI Agents.md",
-    "Projects/Completed Projects/Kleos 2.0/Drawing 2024-06-09 12.49.35.excalidraw.md",
-    "Projects/Completed Projects/Kleos 2.0/Plans.excalidraw.md",
-    "Projects/Active Projects/Kleos 2.0/Presentation.md",
-    "Projects/Completed Projects/Kleos 2.0/Resources.excalidraw.md",
     "Excalidraw Library/system-design.excalidrawlib",
     "Excalidraw Library/software-architecture.excalidrawlib",
     "Excalidraw Library/stick-figures.excalidrawlib",
@@ -228,8 +230,6 @@
     "Excalidraw Library/data-viz.excalidrawlib",
     "Excalidraw Library/architecture-diagram-components.excalidrawlib",
     "Excalidraw Library",
-    "Projects/Active Projects/Kleos 2.0/Untitled.md",
-    "Zettelkasten/Frameworks & Libraries/React",
     "Projects/Active Projects/Kleos 2.0/Reference Resources.canvas",
     "Work Buffer/Untitled.canvas"
   ]

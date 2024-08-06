@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Slouch Detection Literature Survey
 - [ ] DSPy Presentation
 - [ ] Sparkathon prototype
 - [ ] Todo app (React - Postgresql - Prisma - Typescript)
@@ -25,6 +24,7 @@ kanban-plugin: board
 
 ## Finished
 
+- [ ] Slouch Detection Literature Survey
 
 
 

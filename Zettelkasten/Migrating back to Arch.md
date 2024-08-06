@@ -1,22 +1,22 @@
-- [ ] Important apps => VS code, Obsidian, Warp, Mongodb Compass, Postman, Discord, OBS studio, Zoom, NVtop, Btop++ and Libreoffice
+- [x] Important apps => VS code, Obsidian, Warp, Mongodb Compass, Postman, Discord, OBS studio, Zoom, NVtop, Btop++ and Libreoffice
 - [x] Current Code => Github
 - [x] Passwords - Gmail (most probably stored in my mozilla account)
 - [x] Store knowledge base in Github
 - [ ] Setups done
-	- [ ] Ani-cli
-	- [ ] Ollama
-	- [ ] Powerlvl10k
-	- [ ] Lazyvim
-	- [ ] zsh-autosuggestions
-	- [ ] zsh-syntax-highlighting
-	- [ ] fzf
-	- [ ] eza
-	- [ ] zoxide
-	- [ ] alder
-	- [ ] miniconda
+	- [x] Ani-cli
+	- [x] Ollama
+	- [x] Powerlvl10k
+	- [x] Lazyvim
+	- [x] zsh-autosuggestions
+	- [x] zsh-syntax-highlighting
+	- [x] fzf
+	- [x] eza
+	- [x] zoxide
+	- [x] alder
+	- [x] miniconda
 	- [ ] cuda
 	- [ ] cudnn
-	- [ ] ollama
-	- [ ] mpv
-	- [ ] vlc
-	- [ ] steam
+	- [x] ollama
+	- [x] mpv
+	- [x] vlc
+	- [x] steam
