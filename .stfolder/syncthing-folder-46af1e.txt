@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: lwmp6-lgaca
+created: 2024-10-08T20:29:48+05:30

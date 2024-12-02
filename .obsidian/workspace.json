@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a23325c3ef4edfc4",
+        "id": "87ff9673609551d4",
         "type": "tabs",
         "children": [
           {
-            "id": "f4d197a12a5c00a1",
+            "id": "b5858da6db0390a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Zettelkasten/intro to Docker from typecraft.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Seminars/Bounding box.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Bounding box"
             }
           }
         ]
@@ -31,7 +31,7 @@
       {
         "id": "43f8ad456c51ed46",
         "type": "tabs",
-        "dimension": 43.99066511085181,
+        "dimension": 67.53246753246754,
         "children": [
           {
             "id": "bbc36bba892c5011",
@@ -40,7 +40,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -49,13 +51,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "choos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -71,14 +77,16 @@
       {
         "id": "0a6aaa022fbe59b3",
         "type": "tabs",
-        "dimension": 56.009334889148185,
+        "dimension": 32.467532467532465,
         "children": [
           {
             "id": "2e421514c10a970e",
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -87,16 +95,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/intro to Docker from typecraft.md"
-              }
+                "file": "Seminars/Bounding box.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bounding box"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 260.5086555480957,
-    "collapsed": true
+    "width": 382.5004348754883
   },
   "right": {
     "id": "193c582767400c3c",
@@ -112,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/intro to Docker from typecraft.md",
+                "file": "Seminars/Bounding box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bounding box"
             }
           },
           {
@@ -129,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/intro to Docker from typecraft.md",
+                "file": "Seminars/Bounding box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bounding box"
             }
           },
           {
@@ -143,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -151,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -159,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -183,53 +203,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f4d197a12a5c00a1",
+  "active": "b5858da6db0390a3",
   "lastOpenFiles": [
-    "Files/Pasted image 20240805220840.png",
-    "Files/Pasted image 20240805222357.png",
-    "Zettelkasten/intro to Docker from typecraft.md",
     "Scratch Pad.md",
+    "Projects/Mirai.md",
+    "Projects/Mirai.png",
+    "Data structure/Graphs.md",
+    "Files/Pasted Image 20241001104413_726.png",
+    "Files/Pasted Image 20241001104413_715.png",
+    "Files/Pasted Image 20241001103855_704.png",
+    "Files/Pasted Image 20241001024345_339.png",
+    "Files/Pasted Image 20241001024315_338.png",
+    "Files/Pasted Image 20241001024300_340.png",
+    "Files/Pasted Image 20241001024300_337.png",
+    "Files/Pasted Image 20241001024245_351.png",
+    "Files/Pasted Image 20241001024245_336.png",
+    "Data structure",
+    "Seminars/Bounding box.md",
+    "Seminars/Graphs.md",
+    "Seminars/Untitled.md",
+    "Seminars",
+    "Projects/SalesMateCrew.md",
+    "Excalidraw/Survey Sparrow.md",
+    "Projects",
+    "2. Autograd Basics PyTorch.pdf",
+    "1. PyTorch Fundamentals Explained.pdf",
+    "Zettelkasten/SurveySparrow.md",
+    "output_video.mp4",
+    "temp_video.mp4",
+    "temp_video.mp4.part",
+    "youtube_downloader.sh",
+    "youtube_to_gif.sh",
     "Macro.md",
+    "Zettelkasten/Supply Chain Analytics.md",
+    "Jargons.md",
+    "Zettelkasten/Supply chain analytics.md",
+    "Zettelkasten/SQL Problems.md",
+    "Zettelkasten/SQL Revision.md",
+    "Zettelkasten/BERT - Seminar.md",
+    "Zettelkasten/Technical Revision.md",
+    "Untitled.canvas",
+    "Zettelkasten/Computer Networks.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/Django For Everybody - Full Python University Course.md",
+    "Zettelkasten/BERT.md",
+    "Zettelkasten/Request - Response Cycle.md",
     "Zettelkasten/Tadashi Visualize.md",
-    "Files/Pasted Image 20240805105540_672.png",
-    "Files/Pasted image 20240805220758.png",
-    "Files/Pasted Image 20240805105525_665.png",
-    "Files/Pasted Image 20240805104840_652.png",
-    "Files",
     "Zettelkasten/Tadashi.md",
-    "Zettelkasten/Choosing the right database.md",
-    "Zettelkasten/Package managers for JS & TS.md",
-    "Zettelkasten/Jargons.md",
-    "Zettelkasten/Migrating back to Arch.md",
-    "Zettelkasten/Real-time Posture Monitoring and Correction System Using Laptop Camera for Enhanced Ergonomic Health.md",
-    "Zettelkasten/Sample.md",
-    "Zettelkasten",
-    "Excalidraw/Drawing 2024-04-25 00.32.47.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-09 22.37.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-28 01.03.32.excalidraw.md",
-    "Projects/Active Projects/Koe/Drawing 2024-07-24 02.30.24.excalidraw.md",
-    "Files/Pasted Image 20240731001145_438.png",
-    "Files/Pasted Image 20240731002813_664.png",
-    "Files/Pasted Image 20240731000755_432.png",
-    "Files/Pasted Image 20240731000725_418.png",
-    "Rough Notes/Drawing 2024-07-15 20.19.39.excalidraw.md",
-    "Rough Notes/Crystal meth.md",
-    "Projects/Active Projects/Koe",
-    "Zettelkasten/Frameworks & Libraries/React/Core Concepts.md",
-    "Excalidraw/Drawing 2024-07-15 20.19.23.excalidraw.md",
-    "Rough Notes/Drawing 2024-07-08 19.27.32.excalidraw.md",
-    "Projects/Drawing 2024-07-08 02.35.26.excalidraw.md",
-    "Zettelkasten/Frameworks & Libraries/React/Drawing 2024-06-10 18.20.15.excalidraw.md",
-    "Rough Notes/Competitive programming.md",
-    "Rough Notes/Lecture 4 04-07-24.md",
-    "Rough Notes/Lecture 2 02-07-24.md",
-    "Excalidraw Library/system-design.excalidrawlib",
-    "Excalidraw Library/software-architecture.excalidrawlib",
-    "Excalidraw Library/stick-figures.excalidrawlib",
-    "Excalidraw Library/drwnio.excalidrawlib",
-    "Excalidraw Library/data-viz.excalidrawlib",
-    "Excalidraw Library/architecture-diagram-components.excalidrawlib",
-    "Excalidraw Library",
+    "Zettelkasten/useMemo hook in React.md",
     "Projects/Active Projects/Kleos 2.0/Reference Resources.canvas",
     "Work Buffer/Untitled.canvas"
   ]
